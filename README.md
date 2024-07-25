@@ -1,18 +1,32 @@
+# Chirichexe's GitHub Repository
+
+![Banner](https://via.placeholder.com/1200x200/BF211E/FFFFFF?text=Welcome+to+Chirichexe's+GitHub+Repository)
+
+## About Me
+**Name**: Davide Chirichella  
+**University**: Alma Mater Studiorum  
+**Instagram**: [@davidechirichella](https://www.instagram.com/davidechirichella)
+
+## Quote
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
-title: Davide Chirichella
-githubUsername: 'Chirichexe'
----
 
+<style>
+body {
+  background-color: #2E282A;
+  color: #BF211E;
+  font-family: Consolas, "Courier New", monospace;
+}
+a {
+  color: #BF211E;
+}
+blockquote {
+  color: #BF211E;
+  border-left: 5px solid #BF211E;
+  padding-left: 10px;
+  font-style: italic;
+}
+</style>
 
-
-### Hi there 👋
-
-<h2> I'm Davide Chirichella!</h2>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
- 
- 
+Feel free to explore my projects and connect with me on Instagram!
