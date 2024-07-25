@@ -7,8 +7,8 @@
 **University**: Alma Mater Studiorum  
 **Instagram**: [@davidechirichella](https://www.instagram.com/davidechirichella)
 
-## Quote
-> "The only way to do great work is to love what you do." - Steve Jobs
+# Quote
+"I'm sorry, Dave. I'm afraid I can't do that." - HAL 9000, 2001: A Space Odyssey
 
 ---
 
