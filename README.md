@@ -1,6 +1,6 @@
 # Chirichexe's GitHub Repository
 
-![Banner]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F531565562249744056%2F&psig=AOvVaw3P3_6J0r4ZaPkR2jvJGZlZ&ust=1722032756502000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjHtYqew4cDFQAAAAAdAAAAABAE](https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif))
+![Banner](https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif)
 
 ## About Me
 **Name**: Davide Chirichella  
