@@ -1,6 +1,6 @@
 # Chirichexe's GitHub Repository
 
-![Banner](https://via.placeholder.com/1200x200/BF211E/FFFFFF?text=Welcome+to+Chirichexe's+GitHub+Repository)
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F531565562249744056%2F&psig=AOvVaw3P3_6J0r4ZaPkR2jvJGZlZ&ust=1722032756502000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjHtYqew4cDFQAAAAAdAAAAABAE)
 
 ## About Me
 **Name**: Davide Chirichella  
