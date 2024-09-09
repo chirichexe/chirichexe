@@ -7,7 +7,6 @@
 **University**: Alma Mater Studiorum  
 **Instagram**: [@davidechirichella](https://www.instagram.com/davidechirichella)
 
-# Quote
 "I'm sorry, Dave. I'm afraid I can't do that." - HAL 9000, 2001: A Space Odyssey
 
 ---
