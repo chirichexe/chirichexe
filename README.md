@@ -7,9 +7,13 @@
 ```
 
 /* -----------------------------------------------------------------------------------*/
+
 When I'm not coding, I’m probably watching slow and boring films.
+
 When I'm coding, I'm probably listening some strange electronic music.
+
 /* -----------------------------------------------------------------------------------*/
+
 
 ```bash
        _,                          _              davide@chirichexe                
