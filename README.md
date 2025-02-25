@@ -9,7 +9,7 @@
 When I'm not coding, I’m probably watching slow and boring films.
 When I'm coding, I'm probably listening some strange electronic music.
 
-```sh
+```yml
        _,                          _              davide@chirichexe                
      .'  `.                  ___.>"''-..-.        ----------------    
      `-.   ;           .--"""        .-._@;       Name: Davide Chirichella   
