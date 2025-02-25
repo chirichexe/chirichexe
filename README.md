@@ -13,7 +13,7 @@ When I'm coding, I'm probably listening some strange electronic music.
 
 >-------------------------------------------------------------------------------------------------------------------------- |
 
-```bash
+```console
        _,                          _              davide@chirichexe                
      .'  `.                  ___.>"''-..-.        ----------------    
      `-.   ;           .--"""        .-._@;       Name: Davide Chirichella   
