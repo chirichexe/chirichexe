@@ -12,6 +12,23 @@
 ```
 
 ```sh
+       _,                          _              davide@chirichexe                
+     .'  `.                  ___.>"''-..-.        ----------------    
+     `-.   ;           .--"""        .-._@;       Name: Davide Chirichella   
+        ;  !_.--..._ .'      /     .[_@'`'.       University: Alma Mater Studiorum   
+       ;            /       : .'  ; :_.._  `.     Kernel: Bologna   
+       :           ;        ;[   _T-"  `.'-. `-.  Uptime: 21 years   
+        \        .-:      ; `.`-=_,88p.   _.}.-"  Intagram: [@davidechirichella]   
+         `-.__.-'   \    /L._ Y",P$T888;  ""      Linkedin: [davide-chirichella-88200b1ba/]    
+                  .-'_.-'  / ;$$$$$$]8P;          Memory: too short :(    
+                  \ /     / / "Y$$P" ^"             
+                   ;\_    `.\_._                    
+                   ]__\     \___;                   
+```
+----
+
+
+```sh             
             .-/+oossssoo+/-.               davide@chirichexe 
         `:+ssssssssssssssssss+:`           ---------------- 
       -+ssssssssssssssssssyyssss+-         Name: Davide Chirichella 
