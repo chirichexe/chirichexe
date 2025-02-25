@@ -1,13 +1,15 @@
 ![Banner](https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif)
 
-> Welcome to my GitHub profile!
-
+```Welcome to my GitHub profile!```
+/* -----------------------------------------------------------------------------------*/
 ```sh
 [💻 HAL 9000, 2001: A Space Odyssey ] : "I'm sorry, Dave. I'm afraid I can't do that." 
 ```
 
+/* -----------------------------------------------------------------------------------*/
 When I'm not coding, I’m probably watching slow and boring films.
 When I'm coding, I'm probably listening some strange electronic music.
+/* -----------------------------------------------------------------------------------*/
 
 ```bash
        _,                          _              davide@chirichexe                
