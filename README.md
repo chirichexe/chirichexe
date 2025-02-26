@@ -15,7 +15,7 @@ When I'm coding, I'm probably listening some strange electronic music.
 
 ***
 
-```console
+```sh
        _,                          _              davide@chirichexe                
      .'  `.                  ___.>"''-..-.        ----------------    
      `-.   ;           .--"""        .-._@;       Name: Davide Chirichella   
