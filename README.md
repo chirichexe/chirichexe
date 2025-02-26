@@ -1,6 +1,26 @@
 ```Welcome to my GitHub profile!```
 
-![Banner](https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif)
+<!-- ![Banner](https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif) -->
+
+<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="320" />
+
+```
+trykatchup@github
+-------------------------
+🏫 MsC Computer engineering student @Unibo
+🔎 Main interests in AI & Cybersec
+🔭 Working on Deep Learning based cybersecurity solutions
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, C/C++, Java 
+🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
+🚩 Interested in network security and web security
+💖 In a complicated relationship with Suricata IDS
+🖌️ Love drawing portraits and cute stuff, cycling, going to concerts
+🎵 Love metal, rock, jazz and blues
+⚡ Love ketchup (but not on pasta or pizza) 🍅
+💻 Total commits: {{ COMMITS }}
+⭐ Total stars gained: {{ STARS }}
+```
 
 ***
 
