@@ -1,42 +1,34 @@
 ```Welcome to my GitHub profile!```
 
-<!-- ![Banner](https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif) -->
-
-<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="600" />
+<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="400" />
 
 ```
-trykatchup@github
+chirichexe@github
 -------------------------
-🏫 MsC Computer engineering student @Unibo
-🔎 Main interests in AI & Cybersec
-🔭 Working on Deep Learning based cybersecurity solutions
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, C/C++, Java 
-🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
-🚩 Interested in network security and web security
-💖 In a complicated relationship with Suricata IDS
-🖌️ Love drawing portraits and cute stuff, cycling, going to concerts
-🎵 Love metal, rock, jazz and blues
-⚡ Love ketchup (but not on pasta or pizza) 🍅
-💻 Total commits: {{ COMMITS }}
-⭐ Total stars gained: {{ STARS }}
+
 ```
 
 ***
 
 ```sh
-[💻 HAL 9000, 2001: A Space Odyssey ] : "I'm sorry, Dave. I'm afraid I can't do that." 
+[ 💻 HAL 9000, 2001: A Space Odyssey ] : "I'm sorry, Dave. I'm afraid I can't do that." 
 ```
+
 ***
 
-When I'm not coding, I’m probably watching slow and boring films.
-
-When I'm coding, I'm probably listening some strange electronic music.
+```
+if ( I'm coding ) {
+       I'm listening strange electronic music
+              
+} else {
+       I’m watching slow and boring films.
+}
+```
 
 ***
 
 ```sh
-       _,                          _              davide@chirichexe                
+       _,                          _              chirichexe@github                
      .'  `.                  ___.>"''-..-.        ----------------    
      `-.   ;           .--"""        .-._@;       Name: Davide Chirichella   
         ;  !_.--..._ .'      /     .[_@'`'.       University: Alma Mater Studiorum   
@@ -44,8 +36,8 @@ When I'm coding, I'm probably listening some strange electronic music.
        :           ;        ;[   _T-"  `.'-. `-.  Uptime: 21 years   
         \        .-:      ; `.`-=_,88p.   _.}.-"  Intagram: [@davidechirichella]   
          `-.__.-'   \    /L._ Y",P$T888;  ""      Linkedin: [davide-chirichella-88200b1ba/]    
-                  .-'_.-'  / ;$$$$$$]8P;          Main Languages: Node.js, React.js, Java/C#, C
-                  \ /     / / "Y$$P" ^"           Main Interestes: Cloud Computing, IoT
-                   ;\_    `.\_._                  Memory: too short :(
+                  .-'_.-'  / ;$$$$$$]8P;          Memory: too short :(
+                  \ /     / / "Y$$P" ^"           
+                   ;\_    `.\_._                  
                    ]__\     \___;                   
 ```
