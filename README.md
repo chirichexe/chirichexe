@@ -1,6 +1,6 @@
 ```Welcome to my GitHub profile!```
 
-<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="400" />
+<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="500" padding-right="10" />
 
 ```node
 
@@ -11,10 +11,11 @@ if ( I'm coding ) {
 }
 
 ```
-
 ```sh
-[ 💻 HAL 9000, 2001: A Space Odyssey ] : "I'm sorry, Dave. I'm afraid I can't do that." 
+[ 💻 HAL 9000, 2001: A Space Odyssey ] :
+"I'm sorry, Dave. I'm afraid I can't do that." 
 ```
+
 
 ***
 
@@ -29,6 +30,6 @@ if ( I'm coding ) {
          `-.__.-'   \    /L._ Y",P$T888;  ""      Linkedin: [davide-chirichella-88200b1ba/]    
                   .-'_.-'  / ;$$$$$$]8P;          Memory: too short :(
                   \ /     / / "Y$$P" ^"           Main interests: IoT, Cloud Computing, Cybersec
-                   ;\_    `.\_._                  Main languager: Node, React, Java/C#, C
+                   ;\_    `.\_._                  Main languages: Node, React, Java/C#, C
                    ]__\     \___;                   
 ```
