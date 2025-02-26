@@ -1,6 +1,6 @@
 ```Welcome to my GitHub profile!```
 
-<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="500" padding-right="10" />
+<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="400" padding-right="10" />
 
 ```node
 
