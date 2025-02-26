@@ -2,9 +2,13 @@
 
 <img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="400" />
 
-```
-chirichexe@github
--------------------------
+```node
+
+if ( I'm coding ) {
+       I'm listening strange electronic music
+} else {
+       I’m watching slow and boring films.
+}
 
 ```
 
@@ -12,17 +16,6 @@ chirichexe@github
 
 ```sh
 [ 💻 HAL 9000, 2001: A Space Odyssey ] : "I'm sorry, Dave. I'm afraid I can't do that." 
-```
-
-***
-
-```
-if ( I'm coding ) {
-       I'm listening strange electronic music
-              
-} else {
-       I’m watching slow and boring films.
-}
 ```
 
 ***
@@ -37,7 +30,7 @@ if ( I'm coding ) {
         \        .-:      ; `.`-=_,88p.   _.}.-"  Intagram: [@davidechirichella]   
          `-.__.-'   \    /L._ Y",P$T888;  ""      Linkedin: [davide-chirichella-88200b1ba/]    
                   .-'_.-'  / ;$$$$$$]8P;          Memory: too short :(
-                  \ /     / / "Y$$P" ^"           
-                   ;\_    `.\_._                  
+                  \ /     / / "Y$$P" ^"           Main interests: IoT, Cloud Computing, Cybersec
+                   ;\_    `.\_._                  Main languager: Node, React, Java/C#, C
                    ]__\     \___;                   
 ```
