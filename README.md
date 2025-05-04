@@ -29,7 +29,7 @@ if ( I_m_coding ) {
         \        .-:      ; `.`-=_,88p.   _.}.-"  Intagram: [@davidechirichella]   
          `-.__.-'   \    /L._ Y",P$T888;  ""      Linkedin: [davide-chirichella-88200b1ba/]    
                   .-'_.-'  / ;$$$$$$]8P;          Memory: too short :(
-                  \ /     / / "Y$$P" ^"           Main interests: IoT, Cloud Computing, Cybersec
+                  \ /     / / "Y$$P" ^"           Main interests: IoT, Distributed systems
                    ;\_    `.\_._                  Main languages: Node, React, Java/C#, C
                    ]__\     \___;                   
 ```
