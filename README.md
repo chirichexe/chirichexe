@@ -4,7 +4,7 @@
 
 ```node
 
-if ( I'm coding ) {
+if ( I_m_coding ) {
        // I'm listening strange electronic music
 } else {
        // I’m watching slow and boring films.
