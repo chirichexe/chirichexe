@@ -2,13 +2,6 @@
 
 <img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="400" padding-right="10" />
 
-```node
-
-if ( I_m_coding ) {
-       // I'm listening strange electronic music
-} else {
-       // I’m watching slow and boring films.
-}
 
 ```
 ```sh
