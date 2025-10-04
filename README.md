@@ -1,4 +1,4 @@
-```Welcome to my GitHub profile!```
+```Welcome to my GitHub profile!``` <p align="right"> <img src="https://komarev.com/ghpvc/?username=chirichexe&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="chirichexe" /> </p>
 
 <img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="400" padding-right="10" />
 
