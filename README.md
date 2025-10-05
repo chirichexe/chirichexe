@@ -12,10 +12,10 @@
 
 
 ```sh
-🔭 I'm a linux enthusiast and Distributed systems explorer
+🔭 I'm a Linux enthusiast and distributed systems explorer
 🌱 I’m currently deepening my skills in Go and Kubernetes
 💼 Connect with me on LinkedIn: davide-chirichella-88200b1ba
-📫 You can reach me on Instagram: @davidechirichella
+📫 You can reach me on Instagram: @davidechirichella_
 
 ```
 
