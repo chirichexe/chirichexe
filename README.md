@@ -12,10 +12,10 @@
 
 
 ```sh
-🔭 Linux enthusiast and distributed systems explorer
-🌱 Currently deepening my skills in Go and Kubernetes
-💼 Connect with me on LinkedIn: davide-chirichella-88200b1ba
-📫 You can reach me on Instagram: @davidechirichella_
+Linux enthusiast and distributed systems explorer
+Currently deepening my skills in Go and Kubernetes
+Connect with me on LinkedIn: davide-chirichella-88200b1ba
+You can reach me on Instagram: @davidechirichella_
 
 ```
 
