@@ -1,26 +1,30 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chirichexe&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="chirichexe" /> </p>
+<div align="center">
 
-<h3 align="center">
-  I'm Davide! Welcome to my GitHub space 🚀
-</h3>
+# Welcome to my GitHub space! 👋
 
+**Davide Chirichella** | M.Sc. Student in Computer Engineering at University of Bologna (UniBo)
 
-<img align="left" src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" alt="End of file" width="400" padding-right="10" />
+Quite curious about Linux and distributed systems   
+Currently deepening my skills in **Go** and **Kubernetes**
 
-
----
-
-
-```sh
-Linux enthusiast and distributed systems explorer
-Currently deepening my skills in Go and Kubernetes
-Connect with me on LinkedIn: davide-chirichella-88200b1ba
-You can reach me on Instagram: @davidechirichella_
-
-```
+![Go](https://img.shields.io/badge/Go-gray?style=flat-square&logo=go)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?style=flat-square&logo=kubernetes)
+![Linux](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chirichexe&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chirichexe&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirichexe&theme=github_dark) 
+### Connect with me (I've not much to say!) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davide-chirichella-88200b1ba)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/davidechirichella_)
+[![Telegram](https://img.shields.io/badge/Telegram-26A8E7?style=flat-square&logo=telegram&logoColor=white)](https://t.me/chiriched)
+[![CV](https://img.shields.io/badge/CV-Repository-black?style=flat-square&logo=git&logoColor=white)](https://github.com/chirichexe/cv)
+<br />
+
+<img src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" width="100%" alt="Footer GIF"/>
+
+<p align="right">
+<sub>* But if you want we can talk about this!</sub>
+</p>
+
+</div>
