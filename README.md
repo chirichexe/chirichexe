@@ -1,10 +1,12 @@
-<div align="center">
+<div align="left">
 
 # Welcome to my GitHub space! 👋
 
+<img src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" align="right" width="40%" alt="Footer GIF"/>
+
 **Davide Chirichella** | M.Sc. Student in Computer Engineering at University of Bologna (UniBo)
 
-Quite curious about Linux and distributed systems   
+Quite curious about Linux and distributed systems  
 Currently deepening my skills in **Go** and **Kubernetes**
 
 ![Go](https://img.shields.io/badge/Go-gray?style=flat-square&logo=go)
@@ -19,12 +21,7 @@ Currently deepening my skills in **Go** and **Kubernetes**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/davidechirichella_)
 [![Telegram](https://img.shields.io/badge/Telegram-26A8E7?style=flat-square&logo=telegram&logoColor=white)](https://t.me/chiriched)
 [![CV](https://img.shields.io/badge/CV-Repository-black?style=flat-square&logo=git&logoColor=white)](https://github.com/chirichexe/cv)
-<br />
 
-<img src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" width="100%" alt="Footer GIF"/>
-
-<p align="right">
-<sub>* But if you want we can talk about this!</sub>
-</p>
+<br clear="right"/>
 
 </div>
