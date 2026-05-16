@@ -5,6 +5,7 @@
 <img src="https://i.pinimg.com/originals/65/b3/45/65b345dc3ae44aac82e80692dcb5285e.gif" align="right" width="40%" alt="Footer GIF"/>
 
 **Davide Chirichella** 
+
 M.Sc. Student in Computer Engineering at University of Bologna (Unibo)
 
 Quite curious about Linux and distributed systems  
